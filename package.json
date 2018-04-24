@@ -1,0 +1,10 @@
+{
+  "name": "wordAuthorReplacer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "file-zip": "^1.0.1",
+    "replace": "^0.3.0"
+  }
+}
